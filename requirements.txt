@@ -1,0 +1,8 @@
+The following libraries are used in this code:
+
+numpy
+pandas
+re
+string
+altair
+plotly.express
